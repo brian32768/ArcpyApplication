@@ -17,8 +17,8 @@ I make both Project and Item templates because I use this template for both thin
 I should make separate ones, I know. Someday I will do that.
 
 I call one ArcpyApplication.py and the other ArcpyItem.py.
-The Item template has only the PythonApplication.py file in it. The Project template
-also has config.py in it.
+The Item template has only the PythonApplication.py file in it. The
+Project template also has config.py in it.
 
 The Export Wizard always forces you to put the zip files into
 "%HOME%/Documents/Visual Studio 2017/My Exported Templates"
@@ -33,7 +33,8 @@ drive so they are more portable and get backed up.
 
 Drag each zip file into the appropriate folder. Restart Visual Studio.
 
-If you build them, you can tell the Export Wizard to install the templates when you build them. (It's the default.)
+If you build them, you can tell the Export Wizard to install the
+templates when you build them. (It's the default.)
 
 ## To use templates
 
