@@ -1,5 +1,6 @@
 """
-  Created 6/25/2018 2:25:37 PM by Brian Wilson <brian@wildsong.biz>
+@date:   $time%
+@author: $username$
 """
 from __future__ import print_function
 import os

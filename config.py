@@ -1,6 +1,7 @@
 """
 $project$ common configuration properties
-@author: Brian Wilson <brian@wildsong.biz>
+@author: %username%
+@date:   %time%
 """
 import os
 LOGFORMAT = '%(asctime)s %(message)s'
