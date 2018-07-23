@@ -1,5 +1,5 @@
 # Ignore emacs backup files
-.*~
+*~
 
 # Ignore this Visual Studio directory.
 .vs/
