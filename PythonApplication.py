@@ -1,5 +1,5 @@
 """
-@date:   $time%
+@date:   $time$
 @author: $username$
 """
 from __future__ import print_function
@@ -9,6 +9,7 @@ import logging
 import arcpy
 from arcpy import mapping as MAP
 
+class $safeitemname%(object):
 
 
 # ===================================================================================

@@ -1,7 +1,7 @@
 """
 $project$ common configuration properties
-@author: %username%
-@date:   %time%
+@author: $username$
+@date:   $time$
 """
 import os
 LOGFORMAT = '%(asctime)s %(message)s'

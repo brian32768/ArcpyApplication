@@ -1,11 +1,11 @@
 # ArcpyApplication
 
-This is a Visual Studio template for ESRI arcpy python scripts.
+These are Visual Studio templates for ESRI arcpy python scripts and toolboxes.
 
-I am using Visual Studio 2017. Maybe it works on older versions. (Why
-would you want to use an older version?)
+I am using ArcGIS 10.6 and Visual Studio 2017. Maybe it works on older versions. 
+(Why would you want to use an older version?)
 
-To use it, you can just download the pre-built zip file or you can
+To use the templates, you can just download the pre-built zip files or you can
 fork the project and make your own version.
 
 ## To build templates
